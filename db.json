@@ -1,0 +1,134 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Rdx",
+      "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+      "url": "https://www.youtube.com/watch?v=nYEoxne_20Y"
+    },
+    {
+      "id": "2",
+      "caption": "Hoisting in javascript",
+      "thumbnail": "https://media.licdn.com/dms/image/D5612AQGCV3jgU2_ziQ/article-cover_image-shrink_720_1280/0/1699088386154?e=2147483647&v=beta&t=xDrSLZPM-h1HrvTLywIQLxwf0IuAE7yzgDwZuK-pmuE",
+      "url": "https://www.youtube.com/embed/Fnlnw8uY6jo"
+    },
+    {
+      "id": "4",
+      "caption": "React hooks",
+      "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAYFBMVEVbzOr///9OyelTyunc9Prr+fzx+/1/1e6w5PP7/v910+2V3PH1/P7T8PmN2vDj9vts0ezN7vih4PK+6fa45/XG7PeP2/Ce3/Lf9Pqy5fRu0eyp4/NAxuig3/LX8vl71u7NM7lsAAAPwklEQVR4nO1d2YKiOhDFlIqyI+BGX/3/v7wkVdkgsbEbZ7qdnKdpDJAcKrWlkomigICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApQEcTzWe3fotAFCl/aVPK2CfDxxYVPRN0x6uMxq/C+CwWSGyungsHcCqXUmNV5uU/aku/l1AJQlCltrIO3Bg99xsu7r9E3IE1X41QhO5R87i87jp5l/gCLLxsAf0DjUDUe1omb//XGMdDnV/vpUGWdt4PHR2MIgp6y4n4UvfXo4qHOgJGGOQ7LRaaiyOIFqrX+oiYrz1Bcl8d4oAhehIfACLFRWbSg+eHRVBgzan6+zyT4gRGyuUgSRl1JVNZ43W5IZwsS2/dHtvbQSFGHhiCgKwk7RxrRg9RNKQlVd79qF6em8pAiEem5EcQCS9H+73QCXVeD+RF3G5eGuOmJCPZjJGdpIKaXCGpJG7ThhiYk5e3poidIocCheqLRKTpcRQ7ohMUAjf3DUSo786fgC4rUxMJ1kkldF4nr4XEjF892+sNRgqnDSgts/emSIQembv0SWGP514mgiK96/r4N8HSoHXP/6QcjSJRiSqB1L4HgDhNPuidXKauJxUPhb/bYrgrlVR5nvCUxSBgS/09q/g0USDyjRoPkl7hiKIC41kTg74BwDVdebu69byi9ZOdVQ9o65ZaZK+Kg/LyNKLhRKNvusFNJ59xYijzsERzkWfRZw8cr2ysXe7Ek/iyLHAczzwWiSZaRusPevxn4fpeGiizhzohKLV6r/vf378ysm3n+PF3v186RKJCFWmQu",
+      "url": "https://www.youtube.com/embed/TNhaISOUy6Q"
+    }
+  ],
+  "categories": [
+    {
+      "id": "3",
+      "name": "education",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Hoisting in javascript",
+          "thumbnail": "https://media.licdn.com/dms/image/D5612AQGCV3jgU2_ziQ/article-cover_image-shrink_720_1280/0/1699088386154?e=2147483647&v=beta&t=xDrSLZPM-h1HrvTLywIQLxwf0IuAE7yzgDwZuK-pmuE",
+          "url": "https://www.youtube.com/embed/Fnlnw8uY6jo"
+        },
+        {
+          "id": 1,
+          "caption": "Rdx",
+          "thumbnail": "https://images.indianexpress.com/2023/08/rdx.jpg?w=414",
+          "url": "https://www.youtube.com/watch?v=nYEoxne_20Y"
+        },
+        {
+          "id": "3",
+          "caption": "React hooks",
+          "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAYFBMVEVbzOr///9OyelTyunc9Prr+fzx+/1/1e6w5PP7/v910+2V3PH1/P7T8PmN2vDj9vts0ezN7vih4PK+6fa45/XG7PeP2/Ce3/Lf9Pqy5fRu0eyp4/NAxuig3/LX8vl71u7NM7lsAAAPwklEQVR4nO1d2YKiOhDFlIqyI+BGX/3/v7wkVdkgsbEbZ7qdnKdpDJAcKrWlkomigICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApQEcTzWe3fotAFCl/aVPK2CfDxxYVPRN0x6uMxq/C+CwWSGyungsHcCqXUmNV5uU/aku/l1AJQlCltrIO3Bg99xsu7r9E3IE1X41QhO5R87i87jp5l/gCLLxsAf0DjUDUe1omb//XGMdDnV/vpUGWdt4PHR2MIgp6y4n4UvfXo4qHOgJGGOQ7LRaaiyOIFqrX+oiYrz1Bcl8d4oAhehIfACLFRWbSg+eHRVBgzan6+zyT4gRGyuUgSRl1JVNZ43W5IZwsS2/dHtvbQSFGHhiCgKwk7RxrRg9RNKQlVd79qF6em8pAiEem5EcQCS9H+73QCXVeD+RF3G5eGuOmJCPZjJGdpIKaXCGpJG7ThhiYk5e3poidIocCheqLRKTpcRQ7ohMUAjf3DUSo786fgC4rUxMJ1kkldF4nr4XEjF892+sNRgqnDSgts/emSIQembv0SWGP514mgiK96/r4N8HSoHXP/6QcjSJRiSqB1L4HgDhNPuidXKauJxUPhb/bYrgrlVR5nvCUxSBgS/09q/g0USDyjRoPkl7hiKIC41kTg74BwDVdebu69byi9ZOdVQ9o65ZaZK+Kg/LyNKLhRKNvusFNJ59xYijzsERzkWfRZw8cr2ysXe7Ek/iyLHAczzwWiSZaRusPevxn4fpeGiizhzohKLV6r/vf378ysm3n+PF3v186RKJCFWmQu",
+          "url": "https://www.youtube.com/embed/EQLzeR4Mb7A"
+        },
+        {
+          "id": "2",
+          "caption": "Hoisting in javascript",
+          "thumbnail": "https://media.licdn.com/dms/image/D5612AQGCV3jgU2_ziQ/article-cover_image-shrink_720_1280/0/1699088386154?e=2147483647&v=beta&t=xDrSLZPM-h1HrvTLywIQLxwf0IuAE7yzgDwZuK-pmuE",
+          "url": "https://www.youtube.com/embed/Fnlnw8uY6jo"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "entertainment",
+      "allVideos": [
+        {
+          "id": "3",
+          "caption": "React hooks",
+          "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAYFBMVEVbzOr///9OyelTyunc9Prr+fzx+/1/1e6w5PP7/v910+2V3PH1/P7T8PmN2vDj9vts0ezN7vih4PK+6fa45/XG7PeP2/Ce3/Lf9Pqy5fRu0eyp4/NAxuig3/LX8vl71u7NM7lsAAAPwklEQVR4nO1d2YKiOhDFlIqyI+BGX/3/v7wkVdkgsbEbZ7qdnKdpDJAcKrWlkomigICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApQEcTzWe3fotAFCl/aVPK2CfDxxYVPRN0x6uMxq/C+CwWSGyungsHcCqXUmNV5uU/aku/l1AJQlCltrIO3Bg99xsu7r9E3IE1X41QhO5R87i87jp5l/gCLLxsAf0DjUDUe1omb//XGMdDnV/vpUGWdt4PHR2MIgp6y4n4UvfXo4qHOgJGGOQ7LRaaiyOIFqrX+oiYrz1Bcl8d4oAhehIfACLFRWbSg+eHRVBgzan6+zyT4gRGyuUgSRl1JVNZ43W5IZwsS2/dHtvbQSFGHhiCgKwk7RxrRg9RNKQlVd79qF6em8pAiEem5EcQCS9H+73QCXVeD+RF3G5eGuOmJCPZjJGdpIKaXCGpJG7ThhiYk5e3poidIocCheqLRKTpcRQ7ohMUAjf3DUSo786fgC4rUxMJ1kkldF4nr4XEjF892+sNRgqnDSgts/emSIQembv0SWGP514mgiK96/r4N8HSoHXP/6QcjSJRiSqB1L4HgDhNPuidXKauJxUPhb/bYrgrlVR5nvCUxSBgS/09q/g0USDyjRoPkl7hiKIC41kTg74BwDVdebu69byi9ZOdVQ9o65ZaZK+Kg/LyNKLhRKNvusFNJ59xYijzsERzkWfRZw8cr2ysXe7Ek/iyLHAczzwWiSZaRusPevxn4fpeGiizhzohKLV6r/vf378ysm3n+PF3v186RKJCFWmQu",
+          "url": "https://www.youtube.com/embed/EQLzeR4Mb7A"
+        },
+        {
+          "id": "2",
+          "caption": "Hoisting in javascript",
+          "thumbnail": "https://media.licdn.com/dms/image/D5612AQGCV3jgU2_ziQ/article-cover_image-shrink_720_1280/0/1699088386154?e=2147483647&v=beta&t=xDrSLZPM-h1HrvTLywIQLxwf0IuAE7yzgDwZuK-pmuE",
+          "url": "https://www.youtube.com/embed/Fnlnw8uY6jo"
+        },
+        {
+          "id": "3",
+          "caption": "React hooks",
+          "thumbnail": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASIAAACuCAMAAAClZfCTAAAAYFBMVEVbzOr///9OyelTyunc9Prr+fzx+/1/1e6w5PP7/v910+2V3PH1/P7T8PmN2vDj9vts0ezN7vih4PK+6fa45/XG7PeP2/Ce3/Lf9Pqy5fRu0eyp4/NAxuig3/LX8vl71u7NM7lsAAAPwklEQVR4nO1d2YKiOhDFlIqyI+BGX/3/v7wkVdkgsbEbZ7qdnKdpDJAcKrWlkomigICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICApQEcTzWe3fotAFCl/aVPK2CfDxxYVPRN0x6uMxq/C+CwWSGyungsHcCqXUmNV5uU/aku/l1AJQlCltrIO3Bg99xsu7r9E3IE1X41QhO5R87i87jp5l/gCLLxsAf0DjUDUe1omb//XGMdDnV/vpUGWdt4PHR2MIgp6y4n4UvfXo4qHOgJGGOQ7LRaaiyOIFqrX+oiYrz1Bcl8d4oAhehIfACLFRWbSg+eHRVBgzan6+zyT4gRGyuUgSRl1JVNZ43W5IZwsS2/dHtvbQSFGHhiCgKwk7RxrRg9RNKQlVd79qF6em8pAiEem5EcQCS9H+73QCXVeD+RF3G5eGuOmJCPZjJGdpIKaXCGpJG7ThhiYk5e3poidIocCheqLRKTpcRQ7ohMUAjf3DUSo786fgC4rUxMJ1kkldF4nr4XEjF892+sNRgqnDSgts/emSIQembv0SWGP514mgiK96/r4N8HSoHXP/6QcjSJRiSqB1L4HgDhNPuidXKauJxUPhb/bYrgrlVR5nvCUxSBgS/09q/g0USDyjRoPkl7hiKIC41kTg74BwDVdebu69byi9ZOdVQ9o65ZaZK+Kg/LyNKLhRKNvusFNJ59xYijzsERzkWfRZw8cr2ysXe7Ek/iyLHAczzwWiSZaRusPevxn4fpeGiizhzohKLV6r/vf378ysm3n+PF3v186RKJCFWmQu",
+          "url": "https://www.youtube.com/embed/EQLzeR4Mb7A"
+        }
+      ]
+    }
+  ],
+  "watchHistory": [
+    {
+      "id": 1,
+      "categoryName": "rdx",
+      "url": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+      "date": "27-10-2023"
+    },
+    {
+      "id": "b76234f5-7356-4026-95c3-a04a81ced7fd",
+      "categoryName": "Hoisting in javascript",
+      "url": "https://www.youtube.com/embed/Fnlnw8uY6jo",
+      "date": "2023-12-12T04:46:20.891Z"
+    },
+    {
+      "id": "01dccda7-ffeb-4a9e-8c98-009895500d4f",
+      "categoryName": "React hooks",
+      "url": "https://www.youtube.com/embed/EQLzeR4Mb7A",
+      "date": "2023-12-12T04:50:22.740Z"
+    },
+    {
+      "id": "80df990e-3a56-4536-9797-f3120ae203bc",
+      "categoryName": "Rdx",
+      "url": "https://www.youtube.com/watch?v=nYEoxne_20Y",
+      "date": "2023-12-13T03:53:50.497Z"
+    },
+    {
+      "id": "f63d119c-7aa2-4c71-a691-2be09a9fb5a0",
+      "categoryName": "React hooks",
+      "url": "https://www.youtube.com/embed/EQLzeR4Mb7A",
+      "date": "2023-12-13T04:55:58.003Z"
+    },
+    {
+      "id": "fac7a4d8-86ee-4a85-a59a-5670bae63e7b",
+      "categoryName": "React hooks",
+      "url": "https://www.youtube.com/embed/EQLzeR4Mb7A",
+      "date": "2023-12-14T16:00:32.719Z"
+    },
+    {
+      "id": "b6920b59-98d5-4628-a978-5a0b2f6944fe",
+      "categoryName": "Hoisting in javascript",
+      "url": "https://www.youtube.com/embed/Fnlnw8uY6jo",
+      "date": "2023-12-14T16:11:54.896Z"
+    },
+    {
+      "id": "4c196111-0e1e-45d8-8e0f-cbb6e952124f",
+      "categoryName": "React hooks",
+      "url": "https://www.youtube.com/embed/EQLzeR4Mb7A",
+      "date": "2023-12-14T16:12:00.317Z"
+    },
+    {
+      "id": "f4ce5e6e-0834-4d61-9b51-e6e665e66d0d",
+      "categoryName": "React hooks",
+      "url": "https://www.youtube.com/embed/TNhaISOUy6Q",
+      "date": "2023-12-14T16:13:56.364Z"
+    }
+  ]
+}
